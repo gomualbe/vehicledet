@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Datasets 
+datasets/
+
+# Model clones
+models/PRBNet_PyTorch
+
+# DS_Store and PyCharm stuff
+.idea/
+.cadence/
+*.DS_Store
